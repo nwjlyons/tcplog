@@ -1,5 +1,7 @@
 # tcplog
 
+Download binarys from releases page https://github.com/nwjlyons/tcplog/releases
+
 Server
 
 ```
